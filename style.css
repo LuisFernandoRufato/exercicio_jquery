@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: rgba(18, 18, 196, 0.87);
+    background-color: rgba(55, 55, 223, 0.87);
 }
 
 h3 {
@@ -110,7 +110,7 @@ ul li {
     border:none;
     border-radius: 4px;
     background-color: #fff;
-    color: #843aca;
+    color: rgba(18, 18, 196, 0.87);
     font-size: 16px;
     padding: 4px 8px;
     cursor: pointer;
